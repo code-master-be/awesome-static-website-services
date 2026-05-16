@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [remove-audio.com](https://remove-audio.com) - A privacy-first, browser-based batch video muter for static site creators, stripping the audio track from screencasts and demo clips locally via WebAssembly with no uploads or watermarks.
 
 ## Other
 
